@@ -245,7 +245,7 @@ Here are some key obeservations emerged from using the analysis and visualizatio
 
 <p>&nbsp;</p>
 
-## 5. Act Phase
+## 6. Act Phase
 
 ### **Final conclusion**
 
